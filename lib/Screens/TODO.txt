@@ -1,0 +1,15 @@
+//TODO: bookmark
+//TODO: recent
+//TODO: recently added services
+
+//TODO: Neaby location 
+
+
+//TODO: data : --- pancard , aadhaarcard , licence ,All scholarship form , All college addmission form 
+
+//TODO: category ---> sector wise  , department wise
+
+
+
+//TODO: big view of all card in cat for doc
+ 
